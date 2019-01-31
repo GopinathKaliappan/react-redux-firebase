@@ -38,3 +38,4 @@
 * activate Email/Password Sign-In Method in your Firebase App
 "# react-redux-firebase" 
 "# react-redux-firebase" 
+"# sriram" 
